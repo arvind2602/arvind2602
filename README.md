@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Developer 🥹<br>UIA" 2022 Finalist 😍<br>SIH"2022 Winner 😍<br>Full Stack Developer🤩<br>Python 😎
+Software Developer 🥹<br>UIA" 2022 Finalist 😍<br>SIH"2022 Winner 😍<br>Full Stack Developer🤩<br>Python 😎
 
 
 ## 🌐 Socials:
