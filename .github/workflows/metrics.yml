@@ -26,7 +26,7 @@ jobs:
           config_timezone: Asia/Kolkata
           config_display: large
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
           plugin_languages: ${{ secrets.METRICS_TOKEN != '' && 'yes' || 'no' }}
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: programming, markup
