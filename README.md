@@ -73,9 +73,11 @@ from MVP to production — at **Vighnotech**. Big on **system design**.
 | [**crm**](https://github.com/arvind2602/crm) | Full-stack CRM. | TypeScript |
 | [**e-waste**](https://github.com/arvind2602/e-waste) | Smart India Hackathon project — e-waste reduction platform. | JavaScript |
 
-### 📊 GitHub Metrics
+### 📊 GitHub Stats
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/arvind2602/arvind2602/main/github-metrics.svg" alt="Arvind's GitHub metrics" />
+  <br/>
+  <img width="495" src="https://raw.githubusercontent.com/arvind2602/arvind2602/main/languages.svg" alt="Most used languages" />
 </div>
 
 ---
