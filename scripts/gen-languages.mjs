@@ -45,14 +45,14 @@ for (const r of repos) {
 const sum = Object.values(totals).reduce((a, b) => a + b, 0) || 1;
 const langs = Object.entries(totals)
   .sort((a, b) => b[1] - a[1])
-  .slice(0, 8)
+  .slice(0, 6)
   .map(([name, bytes]) => ({ name, pct: (bytes / sum) * 100 }));
 
 const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 const color = (n) => COLORS[n] || "#8b949e";
 
-const W = 495, pad = 25, rowH = 34, top = 74, barW = W - pad * 2;
-const HEIGHT = top + Math.max(langs.length, 1) * rowH + 26;
+const W = 495, pad = 25, rowH = 30, top = 70, barW = W - pad * 2;
+const HEIGHT = top + Math.max(langs.length, 1) * rowH + 24;
 
 let rows = "";
 langs.forEach((l, i) => {
