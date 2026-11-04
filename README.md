@@ -1,6 +1,4 @@
-<a href="https://github.com/arvind2602">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:8957E5&height=190&section=header&text=Arvind%20Gupta&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=SDE%20%26%20Founding%20Member%20%40%20Vighnotech&descAlignY=58&descSize=17&animation=fadeIn" alt="Arvind Gupta" />
-</a>
+<img width="100%" src="https://raw.githubusercontent.com/arvind2602/arvind2602/main/assets/header.svg" alt="Arvind Gupta — SDE & Founding Member @ Vighnotech" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+scalable+FinTech+%26+AI+products;TypeScript+%C2%B7+Next.js+%C2%B7+React+%C2%B7+Python%2FDjango;Big+on+system+design;SIH+2022+Winner+%7C+UIA+2022+Finalist;Open+to+freelance+projects" alt="What I do" />
@@ -89,6 +87,6 @@ Open to **freelance projects** — **[guptaarvind2602@gmail.com](mailto:guptaarv
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,100:1F6FEB&height=110&section=footer" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/arvind2602/arvind2602/main/assets/footer.svg" alt="" />
 
 <!-- This is my readme -->
